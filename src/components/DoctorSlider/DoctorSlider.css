@@ -1,0 +1,6 @@
+.slider-image {
+    width: 300px; /* Set desired width */
+    height: 400px; /* Set desired height */
+    object-fit: cover; /* Maintain aspect ratio and cover the area */
+    border-radius: 10px; /* Optional: add rounded corners */
+}
